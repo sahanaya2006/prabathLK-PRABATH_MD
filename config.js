@@ -40,7 +40,7 @@ module.exports = {
 
   ownername:process.env.OWNER_NAME || 'PRABATH',
 
-  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  sessionName: process.env.SESSION_ID || 'FCut3PIgDMpgbDMRIXQS8LqRUz4koRgvMLza23bBe1A',
 
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
 
